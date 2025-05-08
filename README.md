@@ -2,6 +2,7 @@
 
 ## Description
 3,360 Images of 168 people - passenger behavior human body detection data. The data scenes are the In-cabin camera scenes. The gender distribution is male and female, and the age distribution is mainly young and middle-aged. Data diversity includes multiple age groups, multiple time periods, multiple lights, and multiple passenger behaviors. In terms of content collection, passengers' normal behavior, calling behavior and smoking behavior are collected. In terms of labeling, the human rectangular box is labeled. The data can be used for tasks such as human body detection of passenger behavior. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1531?source=Github
 
 ## Specifications
