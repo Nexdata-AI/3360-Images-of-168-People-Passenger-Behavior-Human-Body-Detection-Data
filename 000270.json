@@ -1,0 +1,19 @@
+{
+    "dataList": [
+        {
+            "id": 1,
+            "shapeType": "rectangle",
+            "label": "Human[&]body",
+            "coordinates": [
+                [
+                    204,
+                    159
+                ],
+                [
+                    804,
+                    1080
+                ]
+            ]
+        }
+    ]
+}
